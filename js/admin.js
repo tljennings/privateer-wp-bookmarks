@@ -1,0 +1,1 @@
+/* Admin specific javascript functionality - only used on the plugin settings panel */
